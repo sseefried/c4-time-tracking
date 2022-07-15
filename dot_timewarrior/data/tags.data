@@ -1,0 +1,19 @@
+{
+  "c4-amarok-2022-06":{"count":1},
+  "c4-backed-2022-05":{"count":2},
+  "c4-ens-2022-07":{"count":3},
+  "c4-fractional-2022-07":{"count":10},
+  "c4-infinity-2022-06":{"count":1},
+  "c4-juicebox-v2-2022-07":{"count":2},
+  "c4-nibbl-2022-06":{"count":10},
+  "c4-notional-2022-06":{"count":7},
+  "c4-putty-2022-06":{"count":5},
+  "c4-seaport-2022-05":{"count":1},
+  "c4-stats-util":{"count":8},
+  "c4-vetoken-2022-05":{"count":6},
+  "c4-yieldy-2022-06":{"count":1},
+  "cardano-study":{"count":9},
+  "django-xtoken-bounty":{"count":3},
+  "fathers-who-audit--morpho":{"count":1},
+  "fathers-who-audit--stakewise":{"count":1}
+}
